@@ -18,11 +18,13 @@
 }
 
 .content__subtitle {
+	color: antiquewhite;
 	font-size: 1.45rem;
+	font-weight: bold;
 	padding: 1rem 0;
 	letter-spacing: 2px;
 	text-indent: 2px;
-	font-weight: bold;
+
 }
 
 .content__subtitle::after {
