@@ -30,7 +30,8 @@
 }
 
 .content__subtitle::after {
-	content: '\2014';
+	/* this places a small line after the subtitle */
+	/* content: '\2014'; */
 	position: relative;
 	display: block;
 	font-size: 2.75rem;
