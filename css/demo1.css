@@ -63,10 +63,7 @@
 	.content__title {
 		font-size: 6vw;
 	}
-	.content__date,
-	.content__location {
-		/* font-size: 2vh; */
-	}
+
 	.menu-trigger {
 		display: inline-block;
 		background: none;
