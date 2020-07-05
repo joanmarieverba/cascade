@@ -238,7 +238,7 @@
 	}
 
 	.grim__item-desc::after {
-		
+		padding: 2vh;
 		content: '<click here for more>';
 		position: relative;
 		display: block;
