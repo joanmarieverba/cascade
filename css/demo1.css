@@ -238,9 +238,10 @@
 	}
 
 	.grim__item-desc::after {
-		content: '...';
+		
+		content: '<click here for more>';
 		position: relative;
 		display: block;
-		font-size: 1.75rem;
+		font-size: .75rem;
 	}
 }
