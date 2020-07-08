@@ -259,6 +259,7 @@
 	.grim__item-desc::after {
 		content: 'test';
 		position: relative;
+		padding-top: 1vh;
 		display: block;
 		font-size: .75rem;
 	}
