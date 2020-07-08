@@ -257,7 +257,7 @@
 	}
 
 	.grim__item-desc::after {
-		content: '\2014';
+		content: 'test';
 		position: relative;
 		display: block;
 		font-size: 1.75rem;
