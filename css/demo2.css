@@ -208,7 +208,9 @@
 
 	.grim__item-img--1 { color: #fcfdff; }
 	.grim__item-img--2 { color: #a9bdd6; }
-	.grim__item-img--3 { color: #9ed4d4; }
+	.grim__item-img--3 { 
+		color: #9ed4d4;
+	}
 	.grim__item-img--4 { color: #d0bebe; }
 	.grim__item-img--5 { color: #df9e98; }
 
