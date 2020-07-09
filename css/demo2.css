@@ -259,7 +259,7 @@
 	.grim__item-desc::after {
 		content: '<click here for more>';
 		position: relative;
-		padding-top: 1vh;
+		padding-top: 2vh;
 		display: block;
 		font-size: .75rem;
 	}
