@@ -257,7 +257,7 @@
 	}
 
 	.grim__item-desc::after {
-		content: 'test';
+		content: '<click here for more>';
 		position: relative;
 		padding-top: 1vh;
 		display: block;
