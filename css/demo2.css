@@ -247,6 +247,13 @@
 		font-family: 'Playfair Display', serif;
 	}
 
+	.grim__item-home {
+		font-weight: normal;
+		margin: 0;
+		font-size: .75em;
+		font-family: 'Playfair Display', serif;
+	}
+
 	.grim__item:nth-child(-n+6) .grim__item-title {
 		font-size: 2vmax;
 	}
