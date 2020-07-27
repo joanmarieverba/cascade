@@ -280,6 +280,11 @@
 	}
 }
 
-.nav-padding {
-	padding: 2px;
+
+
+.nav-header__title {
+	font-size: 1em;
+	font-weight: bold;
+	margin: 0;
+	padding: 1.75em 0;
 }
