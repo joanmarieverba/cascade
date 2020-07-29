@@ -38,6 +38,14 @@
 	text-align: center;
 }
 
+.content__text {
+	max-width: 600px;
+	font-size: 1.25rem;
+	line-height: 1.4;
+	text-align: center;
+	color: white;
+}
+
 .menu-trigger {
 	display: none;
 }
