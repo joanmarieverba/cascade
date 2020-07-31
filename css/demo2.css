@@ -300,4 +300,5 @@
 .text-background {
 	background-color: lightcyan;
 	padding: 2vw;
+	border: 1px solid black;
 }
