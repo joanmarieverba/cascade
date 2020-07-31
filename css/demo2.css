@@ -296,3 +296,8 @@
 	margin: 0;
 	padding: 1.75em 0;
 }
+
+.text-background {
+	background-color: lightcyan;
+	padding: 2vw;
+}
