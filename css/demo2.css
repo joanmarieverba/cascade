@@ -291,7 +291,9 @@
 	}
 }
 
-
+.img-padding {
+	padding: 15px;
+}
 
 .nav-header__title {
 	font-size: 1em;
