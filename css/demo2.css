@@ -225,7 +225,10 @@
 	.grim__item-img--3 { 
 		color: #9ed4d4;
 	}
-	.grim__item-img--4 { color: #d0bebe; }
+	.grim__item-img--4 { 
+		color: antiquewhite; 
+		/* background-image: url(../img/Bookstore-basicJPG.jpg); */
+	}
 	.grim__item-img--5 { color: #df9e98; }
 
 	.grim__item-content {
