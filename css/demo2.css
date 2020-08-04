@@ -85,7 +85,8 @@
 }
 
 #content-5 {
-	background-image: url(../img/Bookstore-basicJPG.jpg);
+	/* background-image: url(../img/Bookstore-basicJPG.jpg); */
+	background-color: skyblue;
 }
 
 #content-6 {
