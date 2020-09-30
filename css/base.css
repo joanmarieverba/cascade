@@ -277,6 +277,8 @@ main {
 	}
 }
 
+/* display-side by-side */
+
 .column {
   float: left;
   width: 50%;
