@@ -79,7 +79,8 @@
 }
 
 #content-2 {
-	background-image: url(../img/book-diary.jpg);
+	/* background-image: url(../img/book-diary.jpg); */
+	background-color: azure;
 }
 
 #content-3 {
